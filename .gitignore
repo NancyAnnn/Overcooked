@@ -1,0 +1,49 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Editor / IDE
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Unity crash / build artifacts
+sysinfo.txt
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Visual Studio cache / Rider
+.vsconfig
+ExportedObj/
+*.tmp
+*.svd
+
+# Auto-generated input file (regenerate in Unity if needed)
+# Assets/PlayerInputActions.cs
